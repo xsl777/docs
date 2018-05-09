@@ -14,3 +14,6 @@ If you're interested, you can read more about [how and why Feathers came to be](
 If you've decided that Feathers might be for you, feel free to dive right in and [learn about the basics](./guides/basics/readme.md).
 
 You can find this documentation as a PDF [here](https://github.com/feathersjs/docs/raw/master/feathersjs.pdf).
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/feathersjs/docs.svg)](https://greenkeeper.io/)
