@@ -188,7 +188,7 @@ The method should return with the complete, updated resource data. Implement `pa
 
 For services registered before `app.listen` is invoked, the `setup` function of each registered service is called on invoking `app.listen`. For services registered after `app.listen` is invoked, `setup` is called automatically by Feathers when a service is registered.
 
-`setup` is a great place to initialize your service with any special configuration or if connecting services that are very tightly coupled (see below), as opposed to using [hooks](../hooks/readme.md).
+`setup` is a great place to initialize your service with any special configuration or if connecting services are very tightly coupled (see below), as opposed to using [hooks](../hooks/readme.md).
 
 ```js
 // app.js
